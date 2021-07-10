@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-1. [Day 1](link)
+1. [Day 1](https://s8383783.github.io/reading-notes/class-01.html)
 2. [Day 2](link)
 3. [Day 3](link)
 4. [Day 4](link)
