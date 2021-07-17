@@ -4,7 +4,7 @@
 
 1. [Day 1](https://s8383783.github.io/reading-notes/class-01.html)
 2. [Day 2](https://s8383783.github.io/reading-notes/class-02.html)
-3. [Day 3](link)
+3. [Day 3](https://s8383783.github.io/reading-notes/class-03.html)
 4. [Day 4](link)
 5. [Day 5](link)
 6. [Day 6](link)
