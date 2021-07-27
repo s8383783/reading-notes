@@ -7,7 +7,7 @@
 3. [Class 3](https://s8383783.github.io/reading-notes/class-03.html)
 4. [Class 4](https://s8383783.github.io/reading-notes/class-04.html)
 5. [Class 5](https://s8383783.github.io/reading-notes/class-05.html)
-6. [Class 6](link)
+6. [Class 6](https://s8383783.github.io/reading-notes/class-06.html)
 7. [Class 7](link)
 8. [Class 8](link)
 9. [Class 9](link)
