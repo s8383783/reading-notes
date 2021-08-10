@@ -11,7 +11,7 @@
 7. [Class 7](https://s8383783.github.io/reading-notes/class-07.html)
 8. [Class 8](https://s8383783.github.io/reading-notes/class-08.html)
 9. [Class 9](https://s8383783.github.io/reading-notes/class-09.html)
-10. [Class 10](link)
+10. [Class 10](https://s8383783.github.io/reading-notes/class-10.html)
 11. [Class 11](link)
 12. [Class 12](link)
 13. [Class 13](link)
