@@ -8,4 +8,4 @@ Additionally you can make an image repeat by using background repeat, you can do
 background position: When an image is NOT being repeated you can use background position to determine where you want your background image.
 image rollovers are similar to hover options. You can change what the image does when it is activated.
 You can uss CSS to determine to dimensions of images. Images can be aligned both horizontally and vertically.
-To reduce the number of images the browser has to show you can use image sprites. 
+To reduce the number of images the browser has to show you can use image sprites..
