@@ -21,6 +21,7 @@
 15. [Class 15](https://s8383783.github.io/reading-notes/class-15.html)
 
 ## Code 301 - Intermediate Software Development
+
 1. [Class 1](link)
 1. [Class 1](link)
 1. [Class 1](link)
