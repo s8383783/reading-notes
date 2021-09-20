@@ -22,7 +22,7 @@
 
 ## Code 301 - Intermediate Software Development
 
-1. [Class 1](link)
+1. [Class 1](https://s8383783.github.io/reading-notes/class-31.html)
 1. [Class 1](link)
 1. [Class 1](link)
 1. [Class 1](link)
