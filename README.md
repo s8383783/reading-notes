@@ -27,5 +27,11 @@
 1. [Class 3](https://s8383783.github.io/reading-notes/class-33.html)
 1. [Class 4](https://s8383783.github.io/reading-notes/class-34.html)
 1. [Class 5](https://s8383783.github.io/reading-notes/class-35.html)
+1. [Class 6](https://s8383783.github.io/reading-notes/class36.html)
+1. [Class 7](https://s8383783.github.io/reading-notes/class-37.html)
+1. [Class 8](https://s8383783.github.io/reading-notes/class-38.html)
+1. [Class 9](https://s8383783.github.io/reading-notes/class-39.html)
+1. [Class 10](https://s8383783.github.io/reading-notes/class-40.html)
+1. [Class 11](https://s8383783.github.io/reading-notes/class-41.html)
 
 ## Code 401 - Advanced Software Development
